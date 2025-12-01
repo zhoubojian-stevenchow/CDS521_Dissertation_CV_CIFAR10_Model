@@ -131,7 +131,7 @@ for epoch in range(num_epochs):
 print('Finished Training')
 
 # === Step 8: Save the Trained Model ===
-MODEL_SAVE_PATH = DRIVE_PATH + 'cifar10_model_v2.pth'
+MODEL_SAVE_PATH = DRIVE_PATH + 'cifar10_model_v10.pth'
 torch.save(net.state_dict(), MODEL_SAVE_PATH)
 print(f'Model saved to: {MODEL_SAVE_PATH}')
 
@@ -144,7 +144,7 @@ plt.title('Training Loss Curve')
 plt.grid(True)
 plt.xticks(range(1, num_epochs + 1))
 
-LOSS_PLOT_PATH = DRIVE_PATH + 'training_loss_v2.png'
+LOSS_PLOT_PATH = DRIVE_PATH + 'training_loss_v10.png'
 plt.savefig(LOSS_PLOT_PATH)
 print(f"Training loss plot saved to: {LOSS_PLOT_PATH}")
 plt.show()
@@ -208,7 +208,7 @@ plt.xlabel('Predicted Label')
 plt.ylabel('True Label')
 plt.title(f'Confusion Matrix for CIFAR-10 Test Set (Accuracy: {accuracy:.2f}%)')
 
-PLOT_SAVE_PATH = DRIVE_PATH + 'confusion_matrix_v2.png'
+PLOT_SAVE_PATH = DRIVE_PATH + 'confusion_matrix_v10.png'
 plt.savefig(PLOT_SAVE_PATH)
 print(f"Confusion matrix plot saved to: {PLOT_SAVE_PATH}")
 plt.show()

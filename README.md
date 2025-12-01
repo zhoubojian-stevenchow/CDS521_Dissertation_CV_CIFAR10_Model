@@ -3,6 +3,7 @@ Dear Profressor Liu,
 Welcome to my Hub. You can review my source code of the programming task by downloading CIFAR-10_training_script.py.
 
 The following content is the details of my training process and outcome shown in the console:
+
 All libraries imported successfully.
 
 Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).

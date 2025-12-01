@@ -1,6 +1,6 @@
 Dear Profressor Liu,
 
-Welcome to my Hub. You can review my source code of the programming task by downloading CIFAR-10_training_script.py.
+Welcome to my Hub. You can review my source code of the programming task by downloading CIFAR-10_training_script.py. Meanwhile, I have also uploaded the model's pth file with its Confussion Matrix and Training Loss Curve.
 
 The following content is the details of my training process and outcome shown in the console:
 

@@ -103,9 +103,9 @@ Starting Training...
 
 Finished Training
 
-Model saved to: /content/drive/My Drive/CDS521_Dissertation_v10/cifar10_model_v2.pth
+Model saved to: /content/drive/My Drive/CDS521_Dissertation_v10/cifar10_model_v10.pth
 
-Training loss plot saved to: /content/drive/My Drive/CDS521_Dissertation_v10/training_loss_v2.png
+Training loss plot saved to: /content/drive/My Drive/CDS521_Dissertation_v10/training_loss_v10.png
 
 ![Alt text of the image](https://github.com/zhoubojian-stevenchow/CDS521_Dissertation_CV_CIFAR10_Model/blob/main/training_loss_curve.png)
 
@@ -137,7 +137,7 @@ Accuracy of  truck: 74.20%
 
 Generating confusion matrix...
 
-Confusion matrix plot saved to: /content/drive/My Drive/CDS521_Dissertation_v10/confusion_matrix_v2.png
+Confusion matrix plot saved to: /content/drive/My Drive/CDS521_Dissertation_v10/confusion_matrix_v10.png
 ![Alt text of the image](https://github.com/zhoubojian-stevenchow/CDS521_Dissertation_CV_CIFAR10_Model/blob/main/confusion_matrix.png)
 
 ============================================================
